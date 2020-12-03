@@ -1,0 +1,25 @@
+---
+title: "geom_beer"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{geom_beer}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+This function works with `ggplot2` to create an image of a nice cold beer. 
+```{r setup}
+library(geombeer)
+
+ggplot() +
+  geom_beer() +
+  theme_void()
+```
