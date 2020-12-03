@@ -12,7 +12,8 @@
 `geombeer` is a package that that creates cool images of refreshing
 alcoholic beverages and yummy bar food. This was mainly built for my [R
 Shiny](https://andrewcli.shinyapps.io/andrews_bar/) app but I think
-anyone can enjoy this package.
+anyone can enjoy this package. The `ggplot2` package is used under the
+the hood to create these images.
 
 ### What’s in the package so far?
 
@@ -45,8 +46,9 @@ ggplot() +
   theme_void()
 ```
 
-<img src="man/figures/README-example-1.png" width="100%" /> \#\#\#
-Example: `geom_gin()`
+<img src="man/figures/README-example-1.png" width="100%" />
+
+### Example: `geom_gin()`
 
 ``` r
 ggplot() +
