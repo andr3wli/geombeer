@@ -1,0 +1,8 @@
+pandoc: 2.11.2
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  geom_beer: geom_beer.html
+  geom_hotdog: geom_hotdog.html
+last_built: 2020-12-24T07:29Z
+

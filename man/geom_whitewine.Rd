@@ -2,7 +2,7 @@
 % Please edit documentation in R/geom_whitewine.R
 \name{geom_whitewine}
 \alias{geom_whitewine}
-\title{Title}
+\title{Creates an image of a red wine bottle}
 \usage{
 geom_whitewine(length = 10)
 }
@@ -13,7 +13,7 @@ geom_whitewine(length = 10)
 Returns an image of a bottle of white wine can when used with ggplot2
 }
 \description{
-Title
+Creates an image of a red wine bottle
 }
 \examples{
 geom_whitewine(10)

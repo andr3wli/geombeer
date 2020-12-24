@@ -45,11 +45,14 @@ image_read("man/img/logo.png")
 # geombeer <img src="man/img/logo.png" align="right" height=230/>
 
 <!-- badges: start -->
-![](https://img.shields.io/badge/AndrewLi-STAT545-green)
+![](https://img.shields.io/badge/AndrewLi-geometer-green)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fandr3wli%2Fgeombeer)
 
 <!-- badges: end -->
 
-`geombeer` is a package that that creates cool images of refreshing alcoholic beverages and yummy bar food. This was mainly built for my [R Shiny](https://andrewcli.shinyapps.io/andrews_bar/) app but I think anyone can enjoy this package. The `ggplot2` package is used under the the hood to create these images. 
+`geombeer` is a package that creates cool images of refreshing alcoholic beverages and yummy bar food. This was mainly built for my [R Shiny](https://andrewcli.shinyapps.io/andrews_bar/) app but I think anyone can enjoy this package. The `ggplot2` package is used under the the hood to create these images. 
 
 ### What's in the package so far?
 

@@ -5,24 +5,28 @@
 
 <!-- badges: start -->
 
-![](https://img.shields.io/badge/AndrewLi-STAT545-green)
+![](https://img.shields.io/badge/AndrewLi-geometer-green) [![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![License:
+MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fandr3wli%2Fgeombeer)
 
 <!-- badges: end -->
 
-`geombeer` is a package that that creates cool images of refreshing
-alcoholic beverages and yummy bar food. This was mainly built for my [R
+`geombeer` is a package that creates cool images of refreshing alcoholic
+beverages and yummy bar food. This was mainly built for my [R
 Shiny](https://andrewcli.shinyapps.io/andrews_bar/) app but I think
 anyone can enjoy this package. The `ggplot2` package is used under the
 the hood to create these images.
 
 ### What’s in the package so far?
 
-  - `geom_beer()` creates a can of ice cold beer
-  - `geom_redwine()`creates a bottle of red wine
-  - `geom_whitewine()`creates a bottle of white wine
-  - `geom_gin()` creates a bottle of gin (aesthetics inspired by [Bombay
+-   `geom_beer()` creates a can of ice cold beer
+-   `geom_redwine()`creates a bottle of red wine
+-   `geom_whitewine()`creates a bottle of white wine
+-   `geom_gin()` creates a bottle of gin (aesthetics inspired by [Bombay
     sapphire](https://www.bombaysapphire.com))
-  - `geom_hotdog()`creates a yummy hot dog
+-   `geom_hotdog()`creates a yummy hot dog
 
 ### Installation
 
@@ -70,10 +74,10 @@ ggplot() +
 
 ### Acknowledgements
 
-A huge thank you to [Georgios
-Karamanis](https://t.co/crHTOelx3S?amp=1)\! He is the one who created
-the original hot dog and I modified his code to give it some friends.
-Georgios is super nice and I am grateful for his help and code.
+A huge thank you to [Georgios Karamanis](https://t.co/crHTOelx3S?amp=1)!
+He is the one who created the original hot dog and I modified his code
+to give it some friends. Georgios is super nice and I am grateful for
+his help and code.
 
 ### Code of Conduct
 

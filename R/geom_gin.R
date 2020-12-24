@@ -1,4 +1,4 @@
-#' Create a gin bottle usinf geom_gin and ggplot2
+#' Create a gin bottle using geom_gin and ggplot2
 #'
 #' @param length Consumes numeric vector
 #'

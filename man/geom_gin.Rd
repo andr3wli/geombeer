@@ -2,7 +2,7 @@
 % Please edit documentation in R/geom_gin.R
 \name{geom_gin}
 \alias{geom_gin}
-\title{Create a gin bottle usinf geom_gin and ggplot2}
+\title{Create a gin bottle using geom_gin and ggplot2}
 \usage{
 geom_gin(length = 10)
 }
@@ -13,5 +13,5 @@ geom_gin(length = 10)
 Returns an image of a beer can when used with ggplot2
 }
 \description{
-Create a gin bottle usinf geom_gin and ggplot2
+Create a gin bottle using geom_gin and ggplot2
 }

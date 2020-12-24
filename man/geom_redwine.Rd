@@ -2,7 +2,7 @@
 % Please edit documentation in R/geom_redwine.R
 \name{geom_redwine}
 \alias{geom_redwine}
-\title{Title}
+\title{Creates an image of a red wine bottle}
 \usage{
 geom_redwine(length = 10)
 }
@@ -13,7 +13,7 @@ geom_redwine(length = 10)
 An image of a boottle of red wine when used with ggplot2
 }
 \description{
-Title
+Creates an image of a red wine bottle
 }
 \examples{
 geom_redwine(5)

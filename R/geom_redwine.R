@@ -1,4 +1,4 @@
-#' Title
+#' Creates an image of a red wine bottle
 #'
 #' @param length Consumes numeric vector
 #'
